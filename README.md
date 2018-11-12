@@ -1,1 +1,4 @@
-# COMPSYS-789
+Spectral Analysis of Kapa Haka
+The objective of this project is to spectrally analyze and study the different performance types of Kapa Haka. Kapa Haka forms an intrinsic element of the New Zealand cultural experience. It represents the maori performing arts and  it literally means to form a line(kapa) and dance(haka).Spectrally analyzing the voice strain in Kapa Haka gives information about the notable changes that occur between the different performance types  known as waiata(warm up song) , haka(challenge),moteatea(old style singing) and also speech. Thus, by taking the spectral features of Kapa Haka, comparison is made between each performance type and it is further analyzed for future reference. In this paper, a comparative study is made with the spectral features of different performance types with the four Kapa Haka performers.
+Appendix includes the plots and results obtained
+R code consists of the code used to get the spectral features of kapa haka.
